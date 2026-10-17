@@ -1,0 +1,6 @@
+{
+  "name": "WimaFi - Carrier-Grade WiFi Billing & Bandwidth Management OS",
+  "description": "High-performance WiFi billing system, FreeRADIUS AAA controller, MikroTik RouterOS gateway sync, M-Pesa push USSD payments, and captive portal manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
